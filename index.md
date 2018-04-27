@@ -6,4 +6,4 @@
   Pomona College Computer Science Department - Teaching Assistant
   
 ### Contact Info
-  email:[gabriel.magee@pomona.edu](gabriel.magee@pomona.edu)
+  email: [gabriel.magee@pomona.edu](gabriel.magee@pomona.edu)
