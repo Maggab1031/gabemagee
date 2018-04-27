@@ -1,8 +1,4 @@
-## Welcome to gabemagee
-
-
-
-test test test
+## Welcome to Gabe Magee's website
 
 You can use the [editor on GitHub](https://github.com/Maggab1031/gabemagee/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
