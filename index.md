@@ -1,4 +1,3 @@
 ## Welcome to Gabe Magee's website
-
-###Experience
+### Experience
   Pomona College Computer Science Department - Teaching Assistant
