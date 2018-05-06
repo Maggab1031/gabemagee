@@ -3,11 +3,11 @@
 ### Bio and Information
 
 ### Experience
-  Pomona College Computer Science Department - Teaching Assistant
-  Dustin Stumblingbear for Lawrence City Comissioner - Intern
-  Claremont Journal of Law and Public Policy - Staff Writer
-  The Student Life - Contributing Writer
-  Lawrence Journal-World - Co-author, Double Take Column
+  - Pomona College Computer Science Department - Teaching Assistant
+  - Dustin Stumblingbear for Lawrence City Comissioner - Intern
+  - Claremont Journal of Law and Public Policy - Staff Writer
+  - The Student Life - Contributing Writer
+  - Lawrence Journal-World - Co-author, Double Take Column
   
 ### Education and Relevant Coursework
   - Pomona College, class of 2020
