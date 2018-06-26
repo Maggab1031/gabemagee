@@ -1,6 +1,7 @@
 ## Welcome to Gabe Magee's website
 
 ### Bio and Information
+   - I was born and raised in Lawrence, Kansas, and am currently pursuing a major in Computer Science at Pomona College in Claremont, California with a minor in Media Studies. I am passionate about stories, how things work, and learning.
 
 ### Experience
   - Pomona College Computer Science Department - Teaching Assistant
