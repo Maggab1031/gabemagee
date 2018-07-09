@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Gabe Magee"
 description: "Currently looking for gainful employment"
+plugins:
+  - jekyll-readme-index
