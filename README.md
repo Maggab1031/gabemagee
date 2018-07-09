@@ -1,2 +1,0 @@
-# gabemagee
-for my site
