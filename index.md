@@ -1,9 +1,10 @@
 ## Welcome to Gabe Magee's website
 
 ### Bio and Information
-   - I was born and raised in Lawrence, Kansas, and am currently pursuing a major in Computer Science at Pomona College in Claremont, California with a minor in Media Studies. I am passionate about stories, how things work, and learning.
+   - I was born and raised in Lawrence, Kansas, and am currently pursuing a major in Computer Science at Pomona College in Claremont, California with a minor in Media Studies. I am passionate about stories, helping others, and how things work. My dream life would be one where I am constantly learning.
 
 ### Experience
+  - T-Mobile - Undergraduate Intern
   - Pomona College Computer Science Department - Teaching Assistant
   - Dustin Stumblingbear for Lawrence City Comissioner - Intern
   - Claremont Journal of Law and Public Policy - Staff Writer
