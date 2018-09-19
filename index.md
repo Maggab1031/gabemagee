@@ -5,7 +5,7 @@
 
 ### Experience
   - T-Mobile - Undergraduate Intern
-  - Pomona College Computer Science Department - Teaching Assistant
+  - Pomona College Computer Science Department - Head Teaching Assistant
   - Dustin Stumblingbear for Lawrence City Comissioner - Intern
   - Claremont Journal of Law and Public Policy - Staff Writer
   - The Student Life - Contributing Writer
@@ -13,10 +13,24 @@
   
 ### Education and Relevant Coursework
   - Pomona College, class of 2020
-    - Computer Science Major, Media Studies Minor (Film Concentration)
+    - Computer Science Major
   - Bishop Seabury Academy, class of 2016
   
-  
+### Skills
+   - C
+   - Java
+   - Python
+   - SQL
+   - CSS/HTML
+   - Swift
+    -JavaScript
+   - Assembly
+   - Copywriting
+   - Report Writing
+   - CPR certified
+   - Public Speaking
+   - LaTeX	
+
 ### Awards and Extracurriculars
   - Eagle Scout, Boy Scouts of America, 2016
   - National Merit Scholar, National Merit Scholarship Corporation, 2016
