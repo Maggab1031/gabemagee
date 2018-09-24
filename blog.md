@@ -1,4 +1,4 @@
-## Blog Post
+## Finding Lyrical Patterns in BROCKHAMPTON's "iridescence"
 
 ### Title
 
