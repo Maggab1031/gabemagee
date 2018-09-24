@@ -1,10 +1,3 @@
-<html lang="en">
-   <head></head>
-   <body>
-      <div>
-         <article>
-            <p>
-               
 ## Welcome to my website
 
 ### Bio
@@ -43,7 +36,3 @@
   
 ### Contact Info
   email: [gabriel.magee@pomona.edu](mailto:gabriel.magee@pomona.edu)</p>
-         </article>
-      </div>
-   </body>
-</html>
