@@ -4,13 +4,25 @@
 
 Here's our logo (hover to see the title text):
 
-Inline-style: 
-![image](/images/BERLIN_BROCKHAMPTON.jpg?raw=true
-     "BERLIN")
+
      
-<img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="drawing" width="200"/>
+<img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
+<img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
+<img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
+<img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
+<img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
 
-Reference-style: 
-![alt text][logo]
+<div id="banner">
+    <div class="inline-block">
+        <img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
+    </div>
 
-[logo]: https://github.com/Maggab1031/gabemagee/images/BERLIN_BROCKHAMPTON.jpg?raw=true "BERLIN"
+    <div class="inline-block">
+        <img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
+    </div>
+
+    <div class="inline-block">
+        <img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" width="200"/>
+    </div>
+</div>
+
