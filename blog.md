@@ -1,7 +1,7 @@
-## Finding Lyrical Patterns in BROCKHAMPTON's "iridescence"
+<div>
+     <title>## Finding Lyrical Patterns in BROCKHAMPTON's "iridescence"</title>
 
-### Title
-
+<p>
 Here's our logo (hover to see the title text):
 
 
@@ -11,6 +11,7 @@ Here's our logo (hover to see the title text):
 <img src="/images/BERLIN_BROCKHAMPTON.jpg?raw=true" alt="BERLIN" title="BERLIN" width="200"/>
 <img src="/images/SOMETHING ABOUT HIM_BROCKHAMPTON.jpg?raw=true" alt="SOMETHING ABOUT HIM" title="SOMETHING ABOUT HIM" width="200"/>
 <img src="/images/WHERE THE CASH AT_BROCKHAMPTON.jpg?raw=true" alt="WHERE THE CASH AT" title="WHERE THE CASH AT" width="200"/>
+</p></div>
 
 
 
