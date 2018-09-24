@@ -2,6 +2,10 @@
 
 ### Bio
    - I was born and raised in Lawrence, Kansas, and am currently pursuing a major in Computer Science at Pomona College in Claremont, California. I am passionate about stories, helping others, and how things work. My dream job would be one where I am constantly learning.
+   
+   
+
+<img src="/images/NEW ORLEANS_BROCKHAMPTON.jpg?raw=true" alt="NEW ORLEANS" title="NEW ORLEANS" width="200"/>
 
 ### Experience
   - T-Mobile - Undergraduate Intern
