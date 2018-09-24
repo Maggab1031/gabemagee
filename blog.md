@@ -5,7 +5,7 @@
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/Maggab1031/gabemagee/raw/master/src/common/BERLIN_BROCKHAMPTON.png
+![image](https://github.com/Maggab1031/gabemagee/raw/master/src/common/Webp.net-resizeimage.png
      "BERLIN")
 
 Reference-style: 
