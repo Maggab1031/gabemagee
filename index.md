@@ -10,6 +10,7 @@
   - Claremont Journal of Law and Public Policy - Staff Writer
   - The Student Life - Contributing Writer
   - Lawrence Journal-World - Co-author, Double Take Column
+  
 ### Education and Relevant Coursework
   - Pomona College, class of 2020
     - Computer Science Major
