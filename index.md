@@ -5,7 +5,6 @@
    
    
 
-<img src="/images/NEW ORLEANS_BROCKHAMPTON.jpg?raw=true" alt="NEW ORLEANS" title="NEW ORLEANS" width="200"/>
 
 ### Experience
   - T-Mobile - Undergraduate Intern
