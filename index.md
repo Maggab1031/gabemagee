@@ -1,7 +1,7 @@
 ## Welcome to my website
 
 ### Bio
-   - I was born and raised in Lawrence, Kansas, and am currently pursuing a major in Computer Science at Pomona College in Claremont, California. I am passionate about stories, helping others, and how things work. My dream job would be one where I am constantly learning. <a href="/blog.md">link</a>
+   - I was born and raised in Lawrence, Kansas, and am currently pursuing a major in Computer Science at Pomona College in Claremont, California. I am passionate about stories, helping others, and how things work. My dream job would be one where I am constantly learning. <a href="blog.md">link</a>
    
    
 
