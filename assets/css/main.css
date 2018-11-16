@@ -2540,6 +2540,10 @@ input, select, textarea {
 
 /* Image */
 
+#profile {
+    border-radius: 50%;
+}
+
 	.image {
 		border-radius: 0.25em;
 		border: 0;
